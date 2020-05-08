@@ -4,6 +4,6 @@
 
 for install package
 
-### `npm start`
+### `node index`
 
 for start project
